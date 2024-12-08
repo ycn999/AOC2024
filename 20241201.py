@@ -30,7 +30,6 @@ def find_distance(pairs):
 puzzle1 = find_distance(pairs)
 
 def find_similarity(pairs):
-  
   left_list = pairs[0]
   right_list = pairs[1]
   rows = len(left_list)
